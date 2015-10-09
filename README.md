@@ -1,4 +1,4 @@
-# Greenfoot-Games
+# Greenfoot Fish Game
 
 
 Game 1 of OOP Course
